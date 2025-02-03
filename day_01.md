@@ -69,9 +69,18 @@ I used to be an English teacher in Japan. I speak Japanese. I used to study Taek
 
 ## Installing LCC.js
 
-1. Open up the terminal/shell ~~(start > run > cmd) or~~ **Powershell**
+1. ~~Open up the terminal/shell ~~(start > run > cmd) or~~ **Powershell**~~
 
-2. type `git` to confirm that it is not yet installed (it should say something like `git is not a recognized command`)
+2. ~~type `git` to confirm that it is not yet installed (it should say something like `git is not a recognized command`)~~
 
-3. Go here to intsall git: https://git-scm.com/downloads/win
+3. ~~Go here to install git: https://git-scm.com/downloads/win~~
 
+4. Download LCC.js by visiting https://github.com/avidrucker/lccjs, clicking on the green <kbd>Code</kbd> button, and then clicking `Download ZIP`
+
+5. Extract the files by going to your Downloads folder, right mouse clicking the new zip file, and selecting `Extract here`
+
+6. Install nodejs by going to https://nodejs.org/en/download and then clicking on `Windows Installer (.msi)`
+
+7. Open the new lccjs folder, and then type in the address bar at the top of the window "`Powershell`" and then tap the Enter key on your keyboard
+
+8. Test that everything works by typing `node ./src/core/lcc.js ./demos/demoA.a` and then hitting <kbd>Enter</kbd>, you should see a message to type your name and then hit <kbd>Enter</kbd> again to see the demo program run.

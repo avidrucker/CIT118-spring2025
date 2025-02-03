@@ -1,0 +1,17 @@
+address: a number that designates a particular memory location. 
+best-fit memory allocation method:  a main memory allocation scheme that considers all free blocks, and selects for allocation the one that will result in the least amount of wasted space. 
+bounds register: a register used to store the highest location in memory legally accessible by each program. 
+compaction of memory: the process of collecting fragments of available memory space into contiguous blocks by relocating programs and data in a computer’s memory. 
+deallocation: the process of freeing an allocated resource, whether memory space, a device, a file, or a CPU. 
+dynamic partition: a memory allocation scheme in which jobs are given as much memory as they request when they are loaded for processing, thus, creating their own partitions in the main memory. 
+external fragmentation: a situation in which the dynamic allocation of memory creates unusable fragments of free memory between blocks of busy, or allocated, memory. 
+first-fit memory allocation method:  a main memory allocation scheme that searches from the beginning of the free block list, and selects to allocate the first block of memory large enough to fulfill the request. 
+fixed partitions: a memory allocation scheme in which main memory is sectioned with one partition assigned to each job. 
+internal fragmentation: a situation in which a partition is only partially used by the program; the remaining space within the partition is unavailable to any other job and is, therefore, wasted. 
+main memory:  the unit that works directly with the CPU, and within which the data and instructions must reside in order for processing to occur. Also called "random access memory" (RAM), primary storage, or internal memory. 
+null entry:  an empty entry in a list. 
+RAM:  short for random access memory. See  main memory. 
+relocatable dynamic partitions: a memory allocation scheme in which the system relocates programs in memory in order to gather together all empty blocks and compact them to make one block of memory that’s large enough to accommodate some, or all, of the jobs waiting for memory. 
+relocation in memory:  (1) the process of moving a program from one area of memory to another; or (2) the process of adjusting address references in a program, by using either software or hardware, to allow the program to execute correctly when loaded in different sections of memory. 
+relocation register:  a register that contains the value that must be added to each address referenced in the program so that the Memory Manager will be able to access the correct memory addresses. 
+

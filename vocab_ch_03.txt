@@ -1,0 +1,35 @@
+address resolution: the process of changing the address of an instruction or data item to the address in main memory to where it is to be loaded or relocated.
+associative memory: the name given to several registers, allocated to each active process, whose contents associate several of the process segments and page numbers with their main memory addresses.
+cache memory: a small, fast memory used to hold selected data and to provide fast access.
+clock cycle: the elapsed time between two ticks of the computer’s system clock.
+clock page replacement policy: a variation of the LRU policy that removes from main memory the pages that show the least amount of activity during recent clock cycles.
+demand paging: a memory allocation scheme that loads a program’s page into memory at the time it is needed for processing.
+displacement: in a paged or segmented memory allocation environment, the difference between a page’s relative address and the actual machine language address. Also called offset.
+FIFO anomaly or the Belady Anomaly: an unusual circumstance through which adding more page frames causes an increase in page interrupts when using a FIFO page replacement policy.
+first-in first-out (FIFO) policy: a page replacement policy that removes from main memory the pages that were first brought in.
+Job Table (JT): a table in main memory that contains two values for each active job— the size of the job, and the memory location where its Page Map Table is stored.
+least recently used (LRU) policy: a page replacement policy that removes from main memory the pages that show the least amount of recent activity.
+locality of reference: a behavior observed in many executing programs in which recently referenced memory locations, and the locations near them, are likely to be referenced in the near future.
+Memory Map Table (MMT): a table in main memory that contains an entry for each page frame, containing the location and free/busy status for each one.
+modulo operation: a mathematical calculation that finds the remainder resulting from the (Euclidean) division of one number by another; it’s always a positive integer. For example, the result of 11 modulo 3 5 2, because after dividing 11 by 3 the remainder is 2.
+page: a fixed-size section of a user’s job that corresponds in size to the page frames in main memory.
+page fault: a type of hardware interrupt caused by a reference to a page that is not residing in memory when it is called. The resulting effect is the movement of a page out of main memory into secondary storage, so that the called page can be moved into memory.
+page fault handler: the part of the Memory Manager that determines if there are empty page frames in memory so that the requested page can be immediately copied from secondary storage. It also determines which page must be swapped out if all page frames are busy. This is also known as a page interrupt handler.
+page frame: an individual section of main memory of uniform size into which a single page may be loaded without causing external fragmentation.
+Page Map Table (PMT): a table in main memory with the vital information for each page, including the page number and its corresponding page frame memory address.
+page replacement policy: an algorithm used by virtual memory systems to decide which page or segment to remove from main memory when a page frame is needed and memory is full.
+page swapping: the process of moving a page out of main memory and into secondary storage so that another page can be moved into memory in its place.
+paged memory allocation: a memory allocation scheme based on the concept of dividing a user’s job into sections of equal size in order to allow for noncontiguous program storage during execution.
+reentrant code: a code that can be used by two or more processes at the same time; each shares the same copy of the executable code but has separate data areas.
+sectors: a division in a magnetic disk’s track, sometimes called a block. The tracks are divided into sectors during the formatting process.
+segment: a variable-sized section of a user’s job that contains a logical grouping of code.
+Segment Map Table (SMT): a table in main memory with the vital information for each segment, including the segment number and its corresponding memory address.
+segmented/demand paged memory allocation: a memory allocation scheme based on the concept of dividing a user’s job into logical groupings of code and loading them into memory as needed to minimize fragmentation.
+segmented memory allocation: a memory allocation scheme based on the concept of dividing a user’s job into logical groupings of code in order to allow for noncontiguous program storage during execution.
+subroutine: also called a “subprogram,” a segment of a program that can perform a specific function. Subroutines can reduce programming time when a specific function is required at more than one point in a program.
+thrashing: a phenomenon in a virtual memory system where an excessive amount of page swapping back and forth between main memory and secondary storage results in higher overhead and little useful work.
+virtual memory: a technique that allows programs to be executed even though they are not stored entirely in memory.
+working set: a collection of pages to be kept in main memory for each active process in a virtual memory environment.
+
+
+

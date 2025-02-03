@@ -1,0 +1,27 @@
+batch system:  a type of computing system that executes programs, each of which is submitted in its entirety, can be grouped into batches, and is executed without external intervention. 
+central processing unit (CPU): a component with circuitry that controls the interpretation and execution of instructions. See also  processor.
+loud computing:  a multifaceted technology that allows computing, data storage and retrieval, and other computer functions to take place via a large network, typically the Internet. 
+Device Manager:  the section of the operating system responsible for controlling the use of devices. It monitors every device, channel, and control unit and chooses the most efficient way to allocate all of the system’s devices. 
+embedded system:  a dedicated computer system that is often part of a larger physical system, such as a jet aircraft or automobile. Often, it must be small, fast, and able to work with real-time constraints, fail-safe execution, and nonstandard I/O devices. 
+File Manager:  the section of the operating system responsible for controlling the use of files. 
+firmware: software instructions, or data, that are stored in a fixed or “firm” way, usually implemented on some type of read-only memory (ROM). 
+hardware:  the tangible machine and its components, including main memory, I/O devices, I/O channels, direct access storage devices, and the central processing unit. 
+hybrid system:  a computer system that supports both batch and interactive processes. 
+interactive system:  a system that allows each user to interact directly with the operating system. 
+kernel:  the primary part of the operating system that remains in random access memory (RAM), and is charged with performing the system’s most essential tasks, such as managing main memory and disk access. 
+main memory (RAM):  the memory unit that works directly with the CPU, and in which the data and instructions must reside in order to be processed. Also called primary storage, RAM,  or  internal memory. 
+Memory Manager:  the section of the operating system responsible for controlling the use of memory. It checks the validity of each request for memory space, and if it’s a legal request, allocates the amount of memory required to execute the job. 
+multiprogramming: a technique that allows a single processor to process several programs residing simultaneously in main memory, and interleaving their execution by overlapping I/O requests with CPU requests. 
+Network Manager:  the section of the operating system responsible for controlling the access to, and use of, networked resources. 
+network:  a system of interconnected computer systems and peripheral devices that exchange information with one another. 
+operating system:  the primary software on a computing system that manages its resources, controls the execution of other programs, and manages communications and data storage. 
+process:  an instance of execution of a program that is identifiable and controllable by the operating system. 
+processor:  (1) another term for the CPU (central processing unit); (2) any component in a computing system capable of performing a sequence of activities. It controls the interpretation and execution of instructions. 
+Processor Manager:  a composite of two submanagers, the Job Scheduler and the Process Scheduler, that decides how to allocate the CPU. 
+RAM:  short for random access memory. See  main memory. 
+real-time system:  a computing system used in time-critical environments that require guaranteed response times. Examples include navigation systems, rapid transit systems, and industrial control systems. 
+server:  a node that provides clients with various network services, such as file retrieval, printing, or database access services. 
+storage:  the place where data is stored in the computer system. Primary storage is main memory. Secondary storage is nonvolatile media, such as disks and flash memory. 
+user interface:  the portion of the operating system that users interact with directly—is one of the most unique and most recognizable components of an operating system. 
+
+

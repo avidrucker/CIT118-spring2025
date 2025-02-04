@@ -71,6 +71,8 @@ After completing this course, students will be able to:
 Required text for this course includes:  
 **Understanding Operating Systems - 8th Edition by McHoes and Flynn**
 
+Brightspace ? TBD
+
 ---
 
 ### Office Hours (TBD)

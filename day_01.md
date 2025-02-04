@@ -8,7 +8,7 @@ Welcome to Operating Systems! This will be a 3 credit course that focuses on the
 
 ## To-Do's [100 min (adjusted for 2 hr delay)]
 
-- [x] Take attendance [~~5~~ 4 min]
+- [x] Take attendance [~~5~~ 4 min] 
 - [x] Starting learning everyone's name's & interests [10 min]
 - [x] Talk some about the instructor, work history, hobbies [~~5~~ 10 min]
 - [ ] Present one history POC techie: [Granville Woods](https://en.wikipedia.org/wiki/Granville_Woods)

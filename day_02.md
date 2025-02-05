@@ -37,6 +37,8 @@ I used to be an English teacher in Japan. I'm 37 years old. I speak Japanese. I'
 ## Homework for Avi
 
 - [ ] Ask Bruce about getting Brightspace access for the class and myself, want to use discussion board, announcements, file sharing, etc.
+  - [x] Send email
+  - [ ] Confirm
 
 ---
 

@@ -55,9 +55,11 @@ I used to be an English teacher in Japan. I speak Japanese. I used to study Taek
 
 ## Homework for Avi
 
-- [ ] Compile my favorite top 10 anime for class to share
+- [x] Compile my favorite top 10 anime for class to share
 - [ ] Check in with Kayla on textbook ETAs
 - [ ] Check in with Bruce regarding my office hours
+  - [x] Send email
+  - [ ] Confirm
 
 ---
 

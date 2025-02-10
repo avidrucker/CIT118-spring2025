@@ -1,24 +1,15 @@
-# Orange County Community College CIT-118
+# Orange County Community College CIT-118 Syllabus
 
-## CIT 118 - Operating Systems - 3 Credits
+## Operating Systems - 3 Credits - Spring 2025
 
----
-
-## Syllabus
-
-### Key Terms
-
-- TBD: To be determined
-- WIP: Work-in-progress
+**Instructor**: Avital "Avi" Drucker  
 
 ---
 
-### Instructor Contact & Office Hours (TBD)
-
-> Email: avitaldrucker@sunyorange.edu  
-> Instructor: Avital "Avi" Drucker  
-> Office: TBD  
-> Office Hours: TBD  
+### Office Hours
+ 
+**Office**: Room 312  
+**Office Hours**: Tuesday 2:18 to 3:18, Wednesday 2:18 to 3:18, or by appointment  
 
 ---
 
@@ -71,13 +62,15 @@ After completing this course, students will be able to:
 Required text for this course includes:  
 **Understanding Operating Systems - 8th Edition by McHoes and Flynn**
 
-Brightspace ? TBD
+Brightspace will be used for grades only. All other course materials will be provided in class.
 
 ---
 
-### Office Hours (TBD)
+### Contact
 
 If you have questions, you may email me using my college email address. Please put your course number followed by your last name in the subject of the email.
+
+> Email: avitaldrucker@sunyorange.edu 
 
 ---
 
@@ -130,8 +123,7 @@ be
 assignments/homework.
 The
 assignments/homework will be counted as part of the final grade. Assignments/homework
-received on the due date will receive full credit. Assignments/homework received one week
-late will receive half credit. Assignments/homework received after that will not receive any
+received on the due date will receive full credit. Assignments/homework will receive a letter grade reduction for each day that they are late. Assignments/homework received after 5 days past the submission date will not receive any
 credit. All work handed in should contain your name, chapter or project it covers.
 
 ---
@@ -139,14 +131,12 @@ credit. All work handed in should contain your name, chapter or project it cover
 ### LABS
 
 Labs are due on the date provided by the instructor. Labs not turned in on the due
-date will receive a letter grade reduction. Labs received one week late will receive half credit.
-Labs received after that will not receive any credit.
+date will receive a letter grade reduction for each day late. Labs not turned in within 5 days of their due date will receive no credit.
 
-Students are asked to highlight their answers to all homework and lab exercises in
-yellow and to include their name at the top of the assignment. Any submitted
-assignment without a name or without highlighted answers will not be graded.
+Students are asked to include their name at the top of the assignment. Any submitted
+assignment without a name will not be graded.
 
-### Chronology of Study (WIP)
+### Chronology of Study
 
 | Week | Topics                   | Chapter Readings | Test/Quiz | Lab                      |
 |------|--------------------------|------------------|-----------|--------------------------|
@@ -167,4 +157,4 @@ assignment without a name or without highlighted answers will not be graded.
 | 15   | Windows Operating System  | Chapter 14       |           |                          |
 | 16   | Final Exam                |                  | Exam 2    |                          |
 
----
+Note: The schedule is subject to change at instructor's discretion.

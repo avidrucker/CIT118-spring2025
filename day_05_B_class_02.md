@@ -28,6 +28,8 @@
 - [ ] find out where grades are submitted, if not Brightspace, then where, and how
   - [ ] ask the students where they can access and view their grades
 
+- [x] share link with class: https://github.com/avidrucker/CIT118-spring2025/blob/main/how_to_install_lccjs_pc.md
+
 ---
 
 ## Notes for Avi

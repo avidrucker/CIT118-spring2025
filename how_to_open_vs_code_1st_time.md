@@ -12,7 +12,7 @@ For the first time opening VS Code, in order to create, edit, and save assembly 
 7. Click on the "File" menu in the top left corner of the window again.
 8. Click on "New File"
 9. Type in the name of your assembly program (e.g., "new.a") and hit enter.
-10. Now you can type in your first program, such as:
+10. Now you can type in your first program, such as: (don't forget to add 1 or 2 blank spaces at the beginning of each line)
 ```arm
     mov r0, 25
     dout r0

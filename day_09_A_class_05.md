@@ -7,7 +7,7 @@
 - [x] Take attendance
 - [x] Announcements from Avi regarding physical and digital textbook access
 - [o] Confirm that everyone has digital access to the textbook
-    - [ ] Assign homework to download digital textbook as a PDF
+    - ~~Assign homework to download digital textbook as a PDF~~
 - [x] Textbook reading (20 min)
 - [x] Kahoot Activity (20 min)
 - [ ] Slide presentation (20 min)

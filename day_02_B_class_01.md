@@ -40,9 +40,9 @@ I used to be an English teacher in Japan. I'm 37 years old. I speak Japanese. I'
   - [x] Send email
   - [x] Confirm
 
-- [x] Q: is ChromeOS a flavor of Linux or is it something else? Yes, it's a Linux distribution, but it's not open source. It's a closed source OS that is based on the Linux kernel. It was developed by Google and is designed to work primarily with web applications and cloud storage.
+- [x] Q: is ChromeOS a flavor of Linux or is it something else? A: Yes, it's a Linux distribution, but it's not open source. It's a closed source OS that is based on the Linux kernel. It was developed by Google and is designed to work primarily with web applications and cloud storage.
 
-- [ ] (once you have link sharing capabilities) share with the class the video on how chips are made
+- [x] (once you have link sharing capabilities) share with the class the video on how chips are made
 
 ---
 

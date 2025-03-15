@@ -6,15 +6,15 @@
 
 - [x] Share snacks
 - [x] Take attendance
-- [ ] Announcements (there's no digital textbook, textbook is property of the program/school)
+- [x] Announcements (there's no digital textbook, textbook is property of the program/school)
 - [x] Do lab prep activity (10 min)
 - [x] Do silent reading up to page 25 (15 min)
-- [o] Finish up slides for ch. 1
-    - [ ] reviewed
-- [ ] Review quiz content for ch. 1 (vocabulary)
-    - [ ] Introduce Anki flashcards, do short demo
-- [ ] Kahoot Ch. 1 Part 2
-- [ ] Publish and share exit survey (make it during lunch)
+- [x] Finish up slides for ch. 1
+    - [x] reviewed
+- [x] Review quiz content for ch. 1 (vocabulary)
+    - [x] Introduce Anki flashcards, do short demo
+- [x] Kahoot Ch. 1 Part 2
+- [x] Publish and share exit survey (make it during lunch)
 
 ---
 

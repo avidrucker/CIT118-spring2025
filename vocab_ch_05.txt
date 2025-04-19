@@ -1,0 +1,20 @@
+avoidance: the dynamic strategy of deadlock avoidance that attempts to ensure that resources are never allocated in such a way as to place a system in an unsafe state.
+circular wait: one of four conditions for deadlock through which each process involved is waiting for a resource being held by another; each process is blocked and can’t continue, resulting in deadlock.
+deadlock: a problem occurring when the resources needed by some jobs to finish execution are held by other jobs, which, in turn, are waiting for other resources to become available.
+dedicated devices: a system resource that can be assigned to only one job at a time, and then serving that job for the entire time that the job is active. It cannot be shared by multiple jobs at the same time.
+detection: the process of examining the state of an operating system in order to determine whether a deadlock exists.
+directed graphs: a graphic model representing various states of resource allocations.
+livelock: a locked system whereby two or more processes continually block the forward progress of the others without making any forward progress themselves. It is similar to a deadlock except that neither process is blocked or obviously waiting; both are in a continuous state of change.
+locking: a technique used to guarantee the integrity of the data in a database, through which the user locks out all other users while working with the database.
+mutual exclusion: one of four conditions for deadlock in which only one process is allowed to have access to a resource.
+no preemption: one of four conditions for deadlock in which a process is allowed to hold on to resources while it is waiting for other resources to finish execution.
+prevention: a design strategy for an operating system where resources are managed in such a way that some of the necessary conditions for deadlock do not hold.
+process synchronization: (1) the need for algorithms to resolve conflicts between processors in a multiprocessing environment; or (2) the need to ensure that events occur in the proper order even if they are carried out by several processes.
+race: a synchronization problem between two processes vying for the same resource.
+recovery: the steps that must be taken, when deadlock is detected, by breaking the circle of waiting processes.
+resource holding: one of the four conditions for deadlock in which each process refuses to relinquish the resources it holds until its execution is completed, even though it is not using them because it’s waiting for other resources.
+safe state: the situation in which the system has enough available resources to guarantee the completion of at least one job running on the system.
+spooling: a technique developed to speed I/O by collecting in a disk file either input received from slow input devices, or output going to slow output devices, such as printers.
+starvation: the result of conservative allocation of resources in which a single job is prevented from completing its execution because it is waiting for resources that never become available.
+unsafe state: a situation in which the system has too few available resources to guarantee the completion of at least one job running on the system. It can lead to deadlock.
+victim: an expendable job that is selected for removal from a deadlocked system in order to provide more resources to the waiting jobs and resolve the deadlock.

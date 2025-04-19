@@ -140,11 +140,11 @@ assignment without a name will not be graded.
 
 | Week | Topics                   | Chapter Readings | Test/Quiz | Lab                      |
 |------|--------------------------|------------------|-----------|--------------------------|
-| 1    | Operating System Concepts | Chapter 1        |           |         |
+| 1    | Operating System Concepts | Chapter 1        |           |                          |
 | 2    | Memory Management         | Chapter 2        |           | Windows Memory           |
 | 3    | Virtual Memory            | Chapter 3        | Quiz 1    |                          |
-| 4    | Processor Management      | Chapter 4        |     | Process Management       |
-| 5    | Processor Management      | Chapter 4        |   Quiz 2         |                          |
+| 4    | Processor Management      | Chapter 4        |           | Process Management       |
+| 5    | Processor Management      | Chapter 4        | Quiz 2    |                          |
 | 6    | Process Management        | Chapter 5        |           | Fedora Install           |
 | 7    | Mid-term Exam             |                  | Exam 1    |                          |
 | 8    | Device Management         | Chapter 7        |           | Windows File Management  |

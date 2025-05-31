@@ -5,7 +5,7 @@ Please read and follow the instructions carefully. If you do not follow them cor
 1. Put the USB stick into the computer
 2. Either turn the computer on or restart it if it's already on
 3. Press f12 repeatedly until the boot menu appears
-4. Select 'Change Boot Mode Settings', 'legacy boot', then 'yes' to proceed, then 'apply changes'
+4. Select 'Change Boot Mode Settings', 'legacy boot' (set legacy boot to "OFF"), then 'yes' to proceed, then 'apply changes'
 5. for the username use 'OCCC', and the password is all lowercase 'orange'
 6. you may need to wait a couple of minutes of the machine to boot up
 

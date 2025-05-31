@@ -1,0 +1,50 @@
+absolute filename: a file’s name, as given by the user, preceded by the directory (or directories) where the file is found and, when necessary, the specific device label.
+access control list: an access control method that lists each file, the names of the users who are allowed to access it, and the type of access each is permitted.
+access control matrix: an access control method that uses a matrix with every file, every user, and the type of access each user is permitted on each file.
+capability list: an access control method that lists every user, the files to which each has access, and the type of access allowed to those files.
+contiguous storage: a type of file storage in which all the information is stored in adjacent locations in a storage medium.
+current byte address (CBA): the address of the last byte read. It is used by the File Manager to access records in secondary storage and must be updated every time a record is accessed.
+current directory: the directory or subdirectory in which the user is working. Synonymous with working directory.
+data compression: a procedure used to reduce the amount of space required to store data by reducing, encoding, or abbreviating repetitive terms or characters.
+database: a group of related files that are interconnected at various levels to give users flexibility of access to the data stored.
+device driver: a device-specific program module that handles the interrupts, and controls a particular type of device.
+device independent: a program or file that functions in the same, correct way on different types of devices.
+direct record organization: files stored in a direct access storage device and organized to give users the flexibility of accessing any record at random, regardless of its position in the file.
+directories: a storage area in a secondary storage volume containing information about files stored in that volume.
+extension: in some operating systems, it’s the part of the filename that indicates which compiler or software package is needed to run the files. In UNIX and Linux, it is called a suffix.
+extents: any remaining records and all other additions to the file that are stored in other sections of the disk.
+field: a group of related bytes that can be identified by the user with a name, type, and size. A record is made up of fields.
+file: a group of related records that contains information to be used by specific application programs to generate reports.
+file descriptor: Non-OS-specific term to refer to information stored in a directory that describes a file or file extent. Also called a "file control block", "inode", or "directory entry".
+* file system: The software layer that controls how data is stored and retrieved on storage devices, organizing files and directories and managing access permissions and metadata.
+fixed-length records: a record that always contains the same number of characters.
+* folder: an alternate way to refer to subdirectories, this is the term usually used by computer users in a GUI context.
+hashing algorithm: the set of instructions used to perform a key-to-address transformation in which a record’s key field determines its location.
+indexed sequential record organization: a way of organizing data in a direct access storage device. An index is created to show where the data records are stored. Any data record can be retrieved by consulting the index first.
+* interrupt: A signal sent to the processor that temporarily halts the current execution flow to prioritize a higher-urgency task, such as responding to hardware I/O operations.
+key field: (1) a unique field or combination of fields in a record that uniquely identifies that record; or (2) the field that determines the position of a record in a sorted sequence.
+logical addresses: the result of a key-to-address transformation.
+master file directory (MFD): a file stored immediately after the volume descriptor. It lists the names and characteristics of every file contained in that volume.
+* metadata: Data that describes other data—in the context of file systems, this includes information like file size, creation/modification dates, permissions, and ownership.
+noncontiguous storage: a type of file storage in which the information is stored in non-adjacent locations in a storage medium.
+path: the sequence of directories and subdirectories the operating system must follow to find a specific file.
+record: a group of related fields treated as a unit. A file is a group of related records.
+relative addresses: in a direct organization environment, it indicates the position of a record relative to the beginning of the file.
+relative filename: a file’s name and extension that differentiates it from other files in the same directory.
+* secondary storage: Non-volatile storage that holds data persistently, even when the computer is powered off. Common examples include hard drives, SSDs, USB drives, and optical media like CDs/DVDs.
+* sequence: (1) An ordered arrangement of elements—such as records, instructions, or operations—based on a defined rule or pattern. (2) A finite, ordered list of elements, such as numbers, characters, or data structures, where order matters and each element has a defined position.
+sequential record organization: the organization of records in a specific sequence. Records in a sequential file must be processed one after another.
+subdirectory: a directory created by the user within the boundaries of an existing directory. Some operating systems call this a folder.
+variable-length records: a record that isn’t of uniform length, doesn’t leave empty storage space, and doesn’t truncate any characters.
+volume: any secondary storage unit, such as hard disks, disk packs, CDs, DVDs, removable disks, flash memory, or tapes.
+working directory: the directory or subdirectory in which the user is currently working. Synonymous with current directory.
+
+
+
+
+
+
+
+
+
+

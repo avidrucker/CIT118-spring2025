@@ -1,0 +1,40 @@
+access times: the total time required to access data in secondary storage.
+blocking: a storage-saving and I/O-saving technique that groups individual records into a block that’s stored and retrieved as a unit.
+C-LOOK: a scheduling strategy for direct access storage devices that’s an optimization of C-SCAN.
+C-SCAN: a scheduling strategy for direct access storage devices that’s used to optimize seek time. It’s an abbreviation for circular-SCAN.
+Channel Status Word (CSW): a data structure that contains information indicating the condition of the I/O path, including three bits for the three components of the I/O subsystem—one each for the channel, control unit, and device.
+direct access storage device (DASD): any secondary storage device that can directly read or write to a specific place. Sometimes this is called a random access storage device.
+direct memory access (DMA): an I/O technique that allows a control unit to access main memory directly, and transfer data without the intervention of the CPU.
+flash memory: a type of nonvolatile memory used as a secondary storage device that can be erased and reprogrammed in blocks of data.
+Hamming code: an error-detecting and error-correcting code that greatly improves the reliability of data, named after mathematician Richard Hamming, its inventor.
+I/O channels: a specialized programmable unit placed between the CPU and the control units that synchronizes the fast speed of the CPU with the slow speed of the I/O device and vice versa, making it possible to overlap I/O operations with CPU operations.
+I/O channel programs: the program that controls the input/output channels.
+I/O control unit: the hardware unit containing the electronic components common to one type of I/O device, such as a disk drive.
+I/O device handler: the module within the operating system that processes the I/O interrupts, handles error conditions, and provides detailed scheduling algorithms that are extremely device dependent.
+I/O scheduler: one of the modules of the I/O subsystem that allocates the input/output devices, control units, and channels.
+I/O subsystem: a collection of modules within the operating system that controls all I/O requests.
+I/O traffic controller: one of the modules of the I/O subsystem that monitors the status of every device, control unit, and channel.
+interblock gap (IBG): an unused space between blocks of records on a magnetic tape. It facilitates the tape’s start/stop operations.
+interrecord gap (IRG): an unused space between records on a magnetic tape. It facilitates the tape’s start/stop operations.
+interrupts: a hardware signal that suspends execution of a program and activates the execution of a special program known as the interrupt handler.
+lands: flat surface areas on the reflective layer of an optical disc, in contrast with pits.
+LOOK: a scheduling strategy for direct access storage devices that’s used to optimize seek time. This is sometimes known as the elevator algorithm.
+N-step SCAN: a variation of the SCAN scheduling strategy for direct access storage devices that’s used to optimize seek times.
+parity bit: an extra bit added to a character, word, or other data unit, and used for error checking.
+pits: tiny depressions on the reflective layer of an optical disc, in contrast with lands.
+RAID: an acronym for redundant array of independent disks; a group of hard disks controlled in such a way that they speed up read access on secondary storage devices and aid in data recovery.
+rotational ordering: an algorithm used to reorder recorded requests within tracks to optimize search time.
+SCAN: a scheduling strategy for direct access storage devices that’s used to optimize seek time. The most common variations are N-step SCAN and C-SCAN.
+search time: the time it takes to rotate the disk until the requested record is under the read/write head. This is also known as a rotational delay.
+secondary storage: the place where data is stored in nonvolatile media, such as disks and flash memory. Contrasts with primary storage, a term for main memory.
+seek strategy: a predetermined policy used by the I/O device handler to optimize seek times.
+seek time: the time required to position the read/write head on the proper track from the time the I/O request is received by the device.
+sequential access storage device: any medium that allows records to be accessed only in a sequential manner, one after the other.
+shared devices: a device that can be assigned to several active jobs at the same time.
+shortest seek time first (SSTF): a scheduling strategy for direct access storage devices that’s used to optimize seek time. The track requests are ordered so that the one closest to the currently active track is satisfied first, and the ones farthest away are made to wait.
+stripe: a set of consecutive strips across RAID disks; the strips contain data bits, and sometimes parity bits depending on the RAID level.
+tracks: paths on a storage medium along which data is recorded.
+transfer rate: the rate at which data is transferred to or from storage media.
+transfer time: the time required for data to be transferred between secondary storage and main memory.
+universal serial bus (USB) controller: the hardware interface between the operating system, device drivers, and applications that read and write to devices connected to the computer through a USB port.
+virtual device: a dedicated device that has been transformed into a shared device through the use of spooling techniques.
